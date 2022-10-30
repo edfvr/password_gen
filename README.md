@@ -1,4 +1,7 @@
-# password_gen
+# Password Generator
+This program generates a password
+## Visual demonstration
+![Password gen image](password_gen.png)
 
 ## Pseudocode
 1. Make arrays of numbers (0 - 9), lowercase alphabet, uppercase alphabet and symbols
